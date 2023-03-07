@@ -1,4 +1,4 @@
 # ASF-Net
-ASF-Net implement by pytorch.
+ASF-Net is implemented by pytorch.
 
 The code will be released after the paper is accepted.
